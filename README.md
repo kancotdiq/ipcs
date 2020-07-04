@@ -1,2 +1,2 @@
 # ipcs
-IPCam-Scanner Versi 2
+KAMERA HACK TÜRKİYE
