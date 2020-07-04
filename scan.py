@@ -33,8 +33,8 @@ def main():
     print("{}  |P   \\\__//    | ").format(w)
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Author  : {}HVmbl3 {}     | {}TUR{}KEY{}{}AKIN ALAF         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Youtube : {}HD OYUNCU {}| {}+BOŞVER NUMARAMI {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
     print ("  {}[ 2 ] {}Indonesia").format(r,w)
@@ -43,10 +43,10 @@ def main():
     print ("  {}[ 5 ] {}France").format(r,w)
     print ("  {}[ 6 ] {}Korea").format(r,w)
     print ("  {}[ 7 ] {}German").format(r,w)
-    print ("  {}[ 8 ] {}Turkey").format(r,w)
+    print ("  {}[ 8 ] {}TURKEY").format(r,w)
     print ("  {}[ 9 ] {}Exit").format(r,w)
     print ""
-    select = input("\033[1;31m[ \033[1;37mSelect@Number \033[1;31m]\033[1;37m> ")
+    select = input("\033[1;31m[ \033[1;37mNumara Seçiniz \033[1;31m]\033[1;37m> ")
     filtering(select)
 
 
