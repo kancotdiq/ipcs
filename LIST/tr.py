@@ -31,8 +31,8 @@ def turkey():
     print("{}  |P   \\\__//    | ").format(w)
     print("  |CS   '--'     | ")
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | {}Author  : {}AKIN {}     | {}TUR{}K{}{}EY         | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | {}Youtube : {}HD OYUNCU {}| {}BOŞVER {}|").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print("{}       [ {}List page : {} {}]").format(r,w,rfindpage,r)
     run()
@@ -51,4 +51,5 @@ def run():
              count += 1
     except:
         print ""
-        print r+"Makasi udh pake tools kami"+w
+        print r+"KAMERA HACK
+"+w
